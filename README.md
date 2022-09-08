@@ -1,4 +1,4 @@
-# Task for Helix interview
+# Task for interview
 
 My task is about Form Validation with writing javascript functionality code that must handle errors or success requests.
 
